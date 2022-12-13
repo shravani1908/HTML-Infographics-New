@@ -259,9 +259,9 @@ h4{
   }
   
   .sec6{
-      width: 50%;
+      width: 30%;
       display: flex;
-      justify-content: center;
+      
       transition: width 1s, height 1s, background-color 1s, transform 1s;
   }
   .container4{
@@ -273,23 +273,21 @@ h4{
       margin-left: 20px;
       margin-right:20px;
       border-radius: 30px;
-      width: 50%;
+      width: 100%;
   }
 
   .sec10{
     
     width: 100%;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
   }
   .sec5{
       width: 100%;
       padding: 20px;
-      flex-wrap: wrap;
-      display: flex;
+      /*flex-wrap: wrap;
+      display: flex;*/
       transition: width 1s, height 1s, background-color 1s, transform 1s;
-      justify-content: center;
+      justify-content: left;
+  
   }
   .sec7{
       width: 100%;
@@ -316,7 +314,7 @@ h4{
 
   .img8{
     width: 50%;
-    text-align: center;
+    text-align: left;
     padding-left: 0px;
   }
 
@@ -330,9 +328,8 @@ h4{
 }
 .list{
  
-  margin-top: 20px;
-    margin-left: 12px;
-    margin-right: 12px;
+  margin-top: 30px;
+    
 }
 
 
@@ -351,6 +348,15 @@ h4{
   margin-bottom: 0px;
   padding-left: 50px;
   color: #000;
+  font-size: 25px;
+}
+
+.tilte2{
+  text-align: left;
+  font-weight: 600;
+  margin-bottom: 0px;
+  padding-left: 30px;
+  color: #ffffff;
   font-size: 25px;
 }
 
