@@ -131,6 +131,7 @@ li{
   font-weight: 600;
   margin-bottom: 0px;
   color: #000;
+  font-size:25px;
 }
 
 h4{
@@ -258,7 +259,7 @@ h4{
   }
   
   .sec6{
-      width: 57%;
+      width: 30%;
       display: flex;
       justify-content: center;
       transition: width 1s, height 1s, background-color 1s, transform 1s;
@@ -272,13 +273,11 @@ h4{
       margin-left: 20px;
       margin-right:20px;
       border-radius: 30px;
-      width: 50%;
+      width: 100%;
   }
 
   .sec10{
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
+    
     width: 100%;
   }
   .sec5{
@@ -328,9 +327,9 @@ h4{
 }
 .list{
  
-  margin-top: 20px;
-    margin-left: 12px;
-    margin-right: 12px;
+  margin-top: 30px;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 
 
@@ -340,7 +339,18 @@ h4{
   margin-bottom: 0px;
   padding-left: 50px;
   color: #000;
+  font-size: 30px;
 }
+
+.title1{
+  text-align: center;
+  font-weight: 600;
+  margin-bottom: 0px;
+  padding-left: 50px;
+  color: #000;
+  font-size: 25px;
+}
+
 
 h4{
   font-family: sans-serif;
