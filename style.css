@@ -259,7 +259,7 @@ h4{
   }
   
   .sec6{
-      width: 30%;
+      width: 50%;
       display: flex;
       justify-content: center;
       transition: width 1s, height 1s, background-color 1s, transform 1s;
@@ -273,12 +273,15 @@ h4{
       margin-left: 20px;
       margin-right:20px;
       border-radius: 30px;
-      width: 100%;
+      width: 50%;
   }
 
   .sec10{
     
     width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
   }
   .sec5{
       width: 100%;
@@ -327,9 +330,9 @@ h4{
 }
 .list{
  
-  margin-top: 30px;
-    margin-left: 20%;
-    margin-right: 20%;
+  margin-top: 20px;
+    margin-left: 12px;
+    margin-right: 12px;
 }
 
 
